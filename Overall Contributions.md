@@ -15,19 +15,13 @@
         <td text-align: center>Emily Smith</td>
     </tr>
     
-    [//]: <> (Sprint 1)
     
-    <tr>
-        [//]: <> (Aliyah)
-        <td>Sprint 1 | hosted meetings for team members, shared instructor documents using project management tools, contributed to all project documents, attended all meetings, kept in contact with mentor</td>
-        [//]: <> (Taylor)
-        
-    </tr>
-
-    <!-- Sprint 2 -->    
-    <tr>
-        <!-- Aliyah -->
-        <td>Sprint 1 | hosted meetings for team members, shared instructor documents using project management tools, contributed to all project documents, attended all meetings, kept in contact with mentor</td>
-    </tr>
+<tr>
+<td> Sprint 1 | hosted meetings for team members, shared instructor documents using project management tools, contributed to all project documents, attended all meetings, kept in contact with mentor</td>
+</tr>
+  
+<tr>
+    <td>Sprint 1 | hosted meetings for team members, shared instructor documents using project management tools, contributed to all project documents, attended all meetings, kept in contact with mentor</td>
+</tr>
 
 </table>
